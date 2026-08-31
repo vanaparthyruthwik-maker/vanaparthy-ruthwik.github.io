@@ -1,0 +1,3 @@
+﻿User-agent: *
+Allow: /
+Sitemap: https://vanaparthy-ruthwik.github.io/sitemap.xml
